@@ -1,0 +1,6 @@
+[submodule "TestDocModule1"]
+	path = TestDocModule1
+	url = https://github.com/apingault/TestDocModule1
+[submodule "TestDocModule2"]
+	path = TestDocModule2
+	url = https://github.com/apingault/TestDocModule2
