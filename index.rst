@@ -6,5 +6,5 @@ My Documentation
 .. toctree::
    :maxdepth: 2
 
-   TestDocModule1/docs/index
-   TestDocModule2/docs/index
+   http://testdoccentrale.readthedocs.io/projects/MOdule1/en/latest/
+   http://testdoccentrale.readthedocs.io/projects/MOdule2/en/latest/
